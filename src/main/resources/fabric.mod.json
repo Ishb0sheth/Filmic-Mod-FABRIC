@@ -3,15 +3,15 @@
 	"id": "filmic",
 	"version": "${version}",
 	"name": "Filmic",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod built for creators that lets you record and render gameplay with complex camera paths",
 	"authors": [
-		"Me!"
+		"Ishbosheth"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "",
 	"icon": "assets/filmic/icon.png",
 	"environment": "*",
 	"entrypoints": {
