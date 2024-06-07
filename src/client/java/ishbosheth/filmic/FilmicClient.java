@@ -1,4 +1,4 @@
-package net.ishbosheth.filmic;
+package ishbosheth.filmic;
 
 import net.fabricmc.api.ClientModInitializer;
 

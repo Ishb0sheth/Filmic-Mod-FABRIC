@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.ishbosheth.filmic.Filmic"
+			"ishbosheth.filmic.Filmic"
 		],
 		"client": [
-			"net.ishbosheth.filmic.FilmicClient"
+			"ishbosheth.filmic.FilmicClient"
 		],
 		"fabric-datagen": [
-			"net.ishbosheth.filmic.FilmicDataGenerator"
+			"ishbosheth.filmic.FilmicDataGenerator"
 		]
 	},
 	"mixins": [

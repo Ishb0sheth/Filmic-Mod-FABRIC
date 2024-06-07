@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.ishbosheth.filmic.mixin",
+	"package": "ishbosheth.filmic.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"
